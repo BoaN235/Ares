@@ -1,6 +1,6 @@
 # log
 
-## log 1: drafting & research  
+## log 1: drafting & research 4 hours (I only lapsed half of it)
 1. I am thinking about using [this motor](https://www.amazon.com/dp/B07VGC7K8F?lv=shuf&channelId=500&plpRedirect=mhFallback) for wheels
 2. This [receiver](https://www.amazon.com/FEICHAO-FS2A-4CH-Compatible-Receiver-Controller/dp/B081CJFVFV/ref=sr_1_12?crid=FTELWMRA4C63&keywords=micro+flysky+receiver&qid=1639272713&sprefix=micro+flysky+%2Caps%2C183&sr=8-12) and this [radio](https://www.amazon.com/Transmitter-Controller-Receiver-Helicopter-Quadcopter/dp/B07Z9YNP7S/ref=sr_1_8?keywords=flysky&qid=1639272765&sr=8-8)
 3. I think I want a TPU outer layer around the robot
