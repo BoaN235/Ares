@@ -15,6 +15,12 @@ Weight MAX 450g
 1x Body ~70g
 1x Battery ~25-50g
 
+2x Top & Bot Frame = 41.62g Red PETG
+1x Electrical Case = 11.24g Black PETG
+1x Middle Frame = 35.1g Black PETG
+2x Wheels = 7.85g Black PETG
+
+
 Cool stuff
 <img width="1520" height="770" alt="Ares" src="https://github.com/user-attachments/assets/dd35c7d6-a1ea-4851-9e31-3bf9b5c4f590" />
 <img width="1520" height="770" alt=" Ares Top" src="https://github.com/user-attachments/assets/edc3de44-6b81-4179-a8a0-5dd247c6bc80" />
