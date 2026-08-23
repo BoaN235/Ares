@@ -47,8 +47,8 @@ I was bored one day and thought that it would funny if I spent a couple hours lo
 |Electrical Case|	1|	$0.00|	11.24	|
 |Middle Frame	|1	|$0.00|	35.1	|
 |Wheels	|2	|$0.00	|7.85	|
-|Weapon	|1	$|0.00|	21	|
-|Total	|	$170.41|	217.71	|
+|Weapon	|1|0.00|	21	|
+|Total	||	$170.41|	217.71	|
 
 ## Building Tips
 
@@ -58,8 +58,4 @@ The biggest tip I can give is don't. Once I have built it I will relase I better
 2. put on the bottom casing so that you can attach the middle layer with the motors
 3. Once you do that put the top one and the 4 locking screws and you should be good to fight! good luck!!
 
-## What is Next
 
-I plan on cutting the weight down to 150 so it is fairy weight. 
-My main way to do this is by making a custom PCB however I don't understand how to design electronics right now so I am going to design a custom pcb later. It will be very complicated.
-<img width="677" height="617" alt="image" src="https://github.com/user-attachments/assets/9d4fc388-4925-40d5-8e46-0350a5cae805" />
