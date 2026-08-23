@@ -26,3 +26,6 @@ Cool stuff
 <img width="1520" height="770" alt=" Ares Top" src="https://github.com/user-attachments/assets/edc3de44-6b81-4179-a8a0-5dd247c6bc80" />
 <img width="1520" height="770" alt="Ares Front" src="https://github.com/user-attachments/assets/5793f457-5f36-4531-9fa6-964bc51e4eb4" />
 <img width="1520" height="770" alt="Ares Close" src="https://github.com/user-attachments/assets/031973ca-0109-4b02-8779-2965034ed870" />
+
+## Log 2: finished off design and looked for parts 2 hours
+
