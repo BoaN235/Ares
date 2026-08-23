@@ -47,8 +47,8 @@ I was bored one day and thought that it would funny if I spent a couple hours lo
 |Electrical Case|	1|	$0.00|	11.24	|
 |Middle Frame	|1	|$0.00|	35.1	|
 |Wheels	|2	|$0.00	|7.85	|
-|Weapon	|1	$|0.00|	21	|
-|Total	|	$170.41|	217.71	|
+|Weapon	|1|0.00|	21	|
+|Total	||	$170.41|	217.71	|
 
 ## Building Tips
 
