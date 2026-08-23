@@ -58,10 +58,4 @@ The biggest tip I can give is don't. Once I have built it I will relase I better
 2. put on the bottom casing so that you can attach the middle layer with the motors
 3. Once you do that put the top one and the 4 locking screws and you should be good to fight! good luck!!
 
-## What is Next
 
-I plan on cutting the weight down to 150 so it is fairy weight. 
-My main way to do this is by making a custom PCB however I don't understand how to design electronics right now so I am going to design a custom pcb later. It will be very complicated.
-
-
-<img width="677" height="617" alt="image" src="https://github.com/user-attachments/assets/9d4fc388-4925-40d5-8e46-0350a5cae805" />
