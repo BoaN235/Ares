@@ -34,7 +34,7 @@ I was bored one day and thought that it would funny if I spent a couple hours lo
 |N20 Motor DC 6V 500RPM	| 1 |	$9.99	| 22	| [amazon](https://www.amazon.com/dp/B0CHRY9LXM/ref=sspa_dk_detail_0?pd_rd_i=B0CHRZYZP3&pd_rd_w=0mHYI&content-id=amzn1.sym.17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_p=17345c9b-ef8c-4a79-bcd9-8894b1e1e0ea&pf_rd_r=W3D9F6XVP6GGKSGAKRVY&pd_rd_wg=H2Tp6&pd_rd_r=ecdbba98-839d-44af-a9ab-4f6f0544f9ac&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1) |
 | Receiver	|1|	$16.88|	0.9|	[amazon](https://www.amazon.com/FEICHAO-FS2A-4CH-Compatible-Receiver-Controller/dp/B081CJFVFV/ref=sr_1_12?crid=FTELWMRA4C63&keywords=micro+flysky+receiver&qid=1639272713&sprefix=micro+flysky+%2Caps%2C183&sr=8-12)
 |Battery Charger	|1|	$7.59|	0|	[amazon](https://www.amazon.com/Tosiicop-7-4V-Lipo-Battery-Charger/dp/B0G529FDRQ?psc=1&pd_rd_w=gc2ld&content-id=amzn1.sym.3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_p=3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_r=YD2C03DQTWWY9G29QXYY&pd_rd_wg=k3zLx&pd_rd_r=f6dbd428-abf0-4c7e-a256-08fb98c898b9&ref_=sspa_dk_detail_gen_ai_1&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
-|Controller|	1|	$61.99|	0|	[amazon](https://www.amazon.com/DTXMX-Transmitter-Receiver-Controller-Helicopter/dp/B0B3T2R65X?psc=1&pd_rd_w=PRgDt&content-id=amzn1.sym.3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_p=3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_r=9C2FH2HSYK2SD98NK17K&pd_rd_wg=xft5i&pd_rd_r=44e8b1a2-6756-48f3-b9fb-6a08f33a9f52&ref_=sspa_dk_detail_gen_ai_img_0&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
+|Controller|	1|	$0.00|	0|	[amazon](https://www.amazon.com/DTXMX-Transmitter-Receiver-Controller-Helicopter/dp/B0B3T2R65X?psc=1&pd_rd_w=PRgDt&content-id=amzn1.sym.3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_p=3dd2641c-5c46-4bbe-b125-fcc207c60e44&pf_rd_r=9C2FH2HSYK2SD98NK17K&pd_rd_wg=xft5i&pd_rd_r=44e8b1a2-6756-48f3-b9fb-6a08f33a9f52&ref_=sspa_dk_detail_gen_ai_img_0&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM=)
 |Motor Weapon	|1|	$16.99	|16|	[amazon](https://www.amazon.com/QWinOut-2400KV-Brushless-Multi-Rotor-Quadcopter/dp/B08JLY2MKF/ref=sr_1_14?crid=1FDV65IRJLA16&dib=eyJ2IjoiMSJ9.kVHTNrfJ-9F7z6srI_oxXcmQxR0Z70eCyVa0HKZSwh4osmG6-6SLYj5NgJJWn9Wth7sWrhcBVksOUBMWP4XO2OrPtIVHwYlLR7eCVLilPWhsg0bkfiWCuKqGJaFlSaRmr-UP6ZlKVVxaRfqQ-kV8tlv2H9WepUoQXhDnOVb4Mgo237rGIwQxLMPMTlYN0rMt_j6R5vDo-LD-eILUMF-JR9Oc44lw-FOwj9nislYxwC0.YI-8iw1zG9UdeSAjtw98XcPMKQOKbwqicYZwfX5gTOk&dib_tag=se&keywords=1806%2Bbrushless%2Bmotor&qid=1787063638&sprefix=1806%2Bbrushless%2Bmotor%2Caps%2C257&sr=8-14&th=1)
 |Battery|	1|	$23.99|	25|	[amazon](https://www.amazon.com/OVONIC-Vehicles-Airplane-Quadcopter-Helicopter/dp/B0D2KY53VZ/ref=sr_1_1_sspa?crid=VZFB8IZOMBG8&dib=eyJ2IjoiMSJ9.SArCCo7znQ7DR-nRGsI4O04XjhLQbZubJ2B3chFk1NsO9-7lIy155mGZRSJLylb_EKC_XpFKc5LNq8y6UNBzT-SmEiSkhpjpw25nT9SvL71o27U1zn7Gih_YMMSlSaOEcyGmyiDwFj3smPZu02B2uqJe1-JjICwJfOmoktOyaoN5tkuIdEb0JVYsQL3MgNruTaQfI5ss2CU0obAvfqPtZckjMgYsQq9yC1rdHiQkvX66oLU62z1i3lA-nXmM8t_mIK5jOmkSCvStTxGVRQPcITJ_5K328D7t42pIsIf0Y4o.E2WoxE8QTQ0U0cxIpaDTTe_mTzHIuk8M-QGxvZ0zex8&dib_tag=se&keywords=2s+lipo+battery&qid=1787061455&sprefix=2s+%2Caps%2C168&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 |Brushless Motor ESC	|1	|$15.99|	10|	[amazon](https://www.amazon.com/Flycolor-Brushless-ESC-3-5mm-Plugs/dp/B0B25DLFZ2/ref=sr_1_1_sspa?crid=24APP3FI5YXE1&dib=eyJ2IjoiMSJ9.IbR41xU1nlYRpfkR2fNaHEvWj4aIreaklX0u93lQs-YiJqRmhlxTUzOxy5fWy_SRBhqZasRNvM9TkUYIWwH2BYrC2ih1ZZmlWm2LPmn0EgR3iVaVlV3JUJtRnM82lqa48DZZN3DKtZyU8wzT5HCzc47qkapOVMnD4R8DEeAGVRTEWrkjfmocAwZckD77CpymHA_U7L5Xjl7zgXQ681ebX4yowU8YLks8TU7kiUlxbeeNkIEny7FmSXRfemal9Dn2vtY8YvCUa5OIvCCXtnd_XMspqNWZUVpoMPbpR3V5qBk.NS7osnbP--ghCu3C-LTolA6sykA0wqOux9jfTX1ZdU0&dib_tag=se&keywords=15amp%2BBrushless%2BESC&qid=1787161838&s=industrial&sprefix=15amp%2Bbrushless%2Besc%2Cindustrial%2C117&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
@@ -48,7 +48,7 @@ I was bored one day and thought that it would funny if I spent a couple hours lo
 |Middle Frame	|1	|$0.00|	35.1	|
 |Wheels	|2	|$0.00	|7.85	|
 |Weapon	|1|0.00|	21	|
-|Total	||	$170.41|	217.71	|
+|Total	||	$108.42|	217.71	|
 
 ## Building Tips
 
@@ -58,4 +58,5 @@ The biggest tip I can give is don't. Once I have built it I will relase I better
 2. put on the bottom casing so that you can attach the middle layer with the motors
 3. Once you do that put the top one and the 4 locking screws and you should be good to fight! good luck!!
 
-
+## Note
+Ignore the controller I will get it myself 
